@@ -31,7 +31,7 @@ def chatbot_response(user_input):
         'Accounting': 'Accounting',
         'Business': 'Business Administration',
         'Marketing': 'Marketing',
-        'Economics': 'Economics',
+        'Economics': 'condaEconomics',
         'Entrepreneur': 'Entrepreneur',
         'GST': 'Gst',
         'Political': 'Political Science',
